@@ -1,6 +1,5 @@
 <div align="center">
   <a href="https://github.com/marubase">
-    <h1 style="display:none">Marubase</h1>
     <img src="https://github.com/marubase/media/raw/main/github/github-readme.png" alt="logo" width="256" />
   </a>
 
