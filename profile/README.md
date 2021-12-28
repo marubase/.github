@@ -1,6 +1,6 @@
 # 📦 Marubase
 
-A document database for the web.
+An open source document database for the web.
 
 # ⚖️ License
 
